@@ -1,0 +1,5 @@
+register task1 1 1 1
+register task2 2 1 1
+register task3 3 1 1
+register task4 4 1 1
+
